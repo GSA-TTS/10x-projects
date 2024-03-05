@@ -12,14 +12,17 @@ body:
   - type: textarea
     id: ideaDescription
     attributes:
-      label: "Idea Description"
-      description: "Describe the submitted idea"
+      label: "Project Description"
+      description: "Describe the submitted project idea"
     validations:
       required: true
-  - type: textarea
-    id: ideaSubmitter
+    - type: markdown
     attributes:
-      label: "Idea submitter(s):"
+      value: '**Project team:**'
+  - type: input
+    id: ideaAuthor
+    attributes:
+      label: "Idea author(s):"
       description: "Name/Agency of idea submitter(s)"
     validations:
       required: true
@@ -28,15 +31,5 @@ body:
     attributes:
       label: "Slack channel:"
       description: "Channel where project discussions occur (if known)"
-    validations:
-      required: false
-  - type: markdown
-    attributes:
-      value: '**Notes:**'
-  - type: textarea
-    id: notes
-    attributes:
-      label: "Any additional information or context that might be useful for the team."
-      description: "Provide any extra notes or context for the user story."
     validations:
       required: false
