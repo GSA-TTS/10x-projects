@@ -1,4 +1,4 @@
-name: "New project card template"
+name: "New project card"
 description: "Use this template for creating new project cards"
 title: "[Idea title]"
 
@@ -16,7 +16,7 @@ body:
       description: "Describe the submitted idea"
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: ideaSubmitter
     attributes:
       label: "Idea submitter(s):"
