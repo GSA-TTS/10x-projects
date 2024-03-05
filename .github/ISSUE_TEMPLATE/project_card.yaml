@@ -12,7 +12,7 @@ body:
   - type: textarea
     id: ideaDescription
     attributes:
-      label: "Idea Description"
+      label: "Project description"
       description: "Describe the submitted idea"
     validations:
       required: true
@@ -27,6 +27,6 @@ body:
     id: slackChannel
     attributes:
       label: "Slack channel:"
-      description: "Channel where project discussions occur (if known)"
+      description: "TTS Slack channel where project discussions occur (if known)"
     validations:
       required: false
