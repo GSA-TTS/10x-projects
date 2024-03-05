@@ -1,0 +1,42 @@
+name: "New project card template"
+description: "Use this template for creating new project cards"
+title: "[Idea title]"
+
+labels:
+  - "Type: New project card"
+
+body:
+  - type: markdown
+    attributes:
+      value: '**Title:**'
+  - type: textarea
+    id: ideaDescription
+    attributes:
+      label: "Idea Description"
+      description: "Describe the submitted idea"
+    validations:
+      required: true
+  - type: textarea
+    id: ideaSubmitter
+    attributes:
+      label: "Idea submitter(s):"
+      description: "Name/Agency of idea submitter(s)"
+    validations:
+      required: true
+  - type: input
+    id: slackChannel
+    attributes:
+      label: "Slack channel:"
+      description: "Channel where project discussions occur (if known)"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: '**Notes:**'
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Any additional information or context that might be useful for the team."
+      description: "Provide any extra notes or context for the user story."
+    validations:
+      required: false
