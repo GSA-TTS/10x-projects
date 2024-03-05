@@ -12,18 +12,15 @@ body:
   - type: textarea
     id: ideaDescription
     attributes:
-      label: "Project Description"
-      description: "Describe the submitted project idea"
+      label: "Idea Description"
+      description: "Describe the submitted idea"
     validations:
       required: true
-    - type: markdown
+  - type: textarea
+    id: ideaSubmitter
     attributes:
-      value: '**Project team:**'
-  - type: input
-    id: ideaAuthor
-    attributes:
-      label: "Idea author(s):"
-      description: "Name/Agency of idea submitter(s)"
+      label: "Idea submitter(s):"
+      description: "Name or Agency of idea submitter(s)"
     validations:
       required: true
   - type: input
