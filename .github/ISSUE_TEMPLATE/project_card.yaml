@@ -14,19 +14,8 @@ body:
     attributes:
       label: "Project description"
       description: "Describe the submitted idea"
+      value: description
+      |
+      **An idea submitted by civil servants at:** _Agency 1 & Agency 2_"
     validations:
       required: true
-  - type: input
-    id: ideaSubmitter
-    attributes:
-      label: "An idea submitted by a civil servant at:"
-      description: "Agency/program of idea submitter(s)"
-    validations:
-      required: true
-  - type: input
-    id: slackChannel
-    attributes:
-      label: "Slack channel:"
-      description: "TTS Slack channel where project discussions occur (if known)"
-    validations:
-      required: false
