@@ -13,9 +13,6 @@ body:
     id: ideaDescription
     attributes:
       label: "Project description"
-      description: "Describe the submitted idea"
-      value: description
-      |
-      **An idea submitted by civil servants at:** _Agency 1 & Agency 2_"
+      description: "Describe the submitted idea
     validations:
       required: true
