@@ -19,7 +19,7 @@ body:
   - type: input
     id: ideaSubmitter
     attributes:
-      label: "Idea submitter(s) agency or program:"
+      label: "_An idea submitted by a civil servant at:_ "
       description: "Agency/program of idea submitter(s)"
     validations:
       required: true
