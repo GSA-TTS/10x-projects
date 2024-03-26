@@ -19,7 +19,7 @@ body:
   - type: input
     id: ideaSubmitter
     attributes:
-      label: "Idea submitter(s):"
+      label: "Idea submitter(s) agency:"
       description: "Name or Agency of idea submitter(s)"
     validations:
       required: true
