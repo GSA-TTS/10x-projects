@@ -1,4 +1,4 @@
-# ![10 x](https://github.com/orgs/GSA-TTS/projects/38/assets/1735772/707b4c23-9aae-4f5c-bda7-c226a58a2d22 "10 x")
+# ![10 x home](https://github.com/orgs/GSA-TTS/projects/38/assets/1735772/707b4c23-9aae-4f5c-bda7-c226a58a2d22 "10 x")
 
 ## Project tracking
 
