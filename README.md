@@ -8,4 +8,4 @@
 
 We’ve integrated a lot of these private sector practices within a federal government context. We prioritize ideas that align with 10x's investment priorities. And using a phased approach, we vet in-flight projects continuously, and only continue funding if projects continue to demonstrate impact and deliver value.
 
-Learn more at [https://10x.gsa.gov](https://10x.gsa.gov)
+Learn more at [https://10x.gsa.gov](https://10x.gsa.gov) and be sure to visit the [10x Project Tracking Kanban](https://github.com/orgs/GSA-TTS/projects/38) to learn more about what we're up to!
