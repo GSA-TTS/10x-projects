@@ -7,6 +7,6 @@
 #### Latest
 
 * [03/10/2025 demo video (mp4)](https://github.com/GSA-TTS/10x-projects/projects/forms-platform/2025-03-06-forms-platform-demo.mp4)
-* [Preview](https://federalist-9ab3a388-1535-4bd5-a4bf-04c7933172d6.sites.pages.cloud.gov/site/gsa-tts/forms/)
+* [cgPages Preview](https://federalist-9ab3a388-1535-4bd5-a4bf-04c7933172d6.sites.pages.cloud.gov/site/gsa-tts/forms/)
 
 Be sure to visit the [10x Website](https://10x.gsa.gov) to learn more about what we're up to!
